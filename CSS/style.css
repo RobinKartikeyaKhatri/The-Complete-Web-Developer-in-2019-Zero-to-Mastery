@@ -11,7 +11,7 @@ h2 {
     color: red;
 }
 
-h2 + p:hover {
+h2 + p {
     color: #AA4139;
     text-align: center;
     border: 5px solid rgba(255, 176, 170, 0.2);
@@ -19,11 +19,11 @@ h2 + p:hover {
 }
 
 p {
-    color: pink !important;
-}
-
-p {
-    color: green;
+    line-height: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 180%;
+    font-family: 'Poiret One', cursive;
 }
 
 li {
