@@ -1,3 +1,4 @@
-.myModalButton {
-    box-shadow: 2px 4px 12px red;
+.col {
+    background-color: gray;
+    border: 2px solid black;
 }
